@@ -1,0 +1,12 @@
+{
+    "name": "Criteo Cookbook CI",
+    "description": "Criteo Cookbooks CI workflow template.",
+    "iconName": "ci-icon",
+    "categories": [
+        "Ruby"
+    ],
+    "filePatterns": [
+        "Gemfile",
+        "metadata\\.rb$"
+    ]
+}
